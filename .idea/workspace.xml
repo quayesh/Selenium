@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e38349ef-fea5-418f-9bd5-08302558c748" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ebay/FirefoxSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ebay/Screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/initialization/SetupFirefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/geckodriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ebay/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ebay/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/initialization/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/initialization/Setup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/drivers/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drivers/chromedriver 2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/drivers/chromedriver 2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ebay/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ebay/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/initialization/Setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/initialization/Setup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/google-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/google-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -96,9 +80,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
+    <option name="x" value="607" />
     <option name="y" value="27" />
-    <option name="width" value="1464" />
+    <option name="width" value="913" />
     <option name="height" value="959" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -107,18 +91,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -300,7 +274,7 @@
   <component name="ToolWindowManager">
     <frame x="56" y="27" width="1464" height="959" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27707455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2805907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,7 +291,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
