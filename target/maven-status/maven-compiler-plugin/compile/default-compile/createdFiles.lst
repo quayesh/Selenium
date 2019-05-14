@@ -1,1 +1,9 @@
+initialization/Setup_Core.class
+initialization/SeleniumMethods.class
 initialization/Setup.class
+initialization/TakeScreenshot.class
+initialization/Setup_Basic.class
+ebay/Screenshot.class
+initialization/SetupFirefox.class
+ebay/FirefoxSetup.class
+ebay/HomePage.class

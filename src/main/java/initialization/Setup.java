@@ -16,9 +16,9 @@ public class Setup {
 
     public static WebDriver setupDriver(String platform, String url, String browser) {
         if (platform.equalsIgnoreCase("mac") && browser.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "/Users/abmquayesh/eclipse-workspace/Google/src/main/resources/drivers/chromedriver 2");
+            System.setProperty("webdriver.chrome.driver", "src/main/resources/drivers/chromedriver 2");
         } else if (platform.equalsIgnoreCase("windows") && browser.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "/Users/abmquayesh/eclipse-workspace/Google/src/main/resources/drivers/chromedriver 2.exe");
+            System.setProperty("webdriver.chrome.driver", "src/main/resources/drivers/chromedriver.exe");
         }
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -57,6 +57,29 @@ public class Setup {
             e.printStackTrace();
         }
     }
+
+    @Test
+    public void signUp() {
+        setupDriver("Mac", "https://www.facebook.com/", "chrome");
+        driver.findElement(By.linkText("SignUp")).click();
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Test
+    public void findFriends() {
+        setupDriver("Mac", "https://www.facebook.com/", "chrome");
+        driver.findElement(By.linkText("FindFriends")).click();
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
 
 }
 

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e38349ef-fea5-418f-9bd5-08302558c748" name="Default Changelist" comment="" />
+    <list default="true" id="e38349ef-fea5-418f-9bd5-08302558c748" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ebay/FirefoxSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ebay/Screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/initialization/SetupFirefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ebay/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ebay/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/initialization/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/initialization/Setup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/drivers/chromedriver 2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/drivers/chromedriver 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ebay/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ebay/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/initialization/Setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/initialization/Setup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/google-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/google-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +32,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ebay/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,16 +41,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ebay/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/initialization/Setup.java" />
         <option value="$PROJECT_DIR$/src/main/java/initialization/Setup_Core.java" />
         <option value="$PROJECT_DIR$/src/main/java/initialization/Setup_Basic.java" />
         <option value="$PROJECT_DIR$/src/main/java/initialization/SeleniumMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/initialization/TakeScreenshot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initialization/Setup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebay/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebay/Screenshot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initialization/SetupFirefox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebay/FirefoxSetup.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -71,23 +86,27 @@
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="google" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="607" />
+    <option name="x" value="56" />
     <option name="y" value="27" />
-    <option name="width" value="913" />
+    <option name="width" value="1464" />
     <option name="height" value="959" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,67 +114,16 @@
               <item name="Google" type="b2602c69:ProjectViewProjectNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="initialization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/drivers" />
@@ -179,47 +147,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TakeScreenshot">
-    <configuration name="Setup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="initialization.Setup" />
+  <component name="RunManager" selected="TestNG.FirefoxSetup.fashion">
+    <configuration name="FirefoxSetup" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="initialization.*" />
+          <option name="PATTERN" value="ebay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ebay" />
+      <option name="MAIN_CLASS_NAME" value="ebay.FirefoxSetup" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Setup_Core" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="initialization.Setup_Core" />
+    <configuration name="FirefoxSetup.dailyDeal" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="initialization.*" />
+          <option name="PATTERN" value="ebay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ebay" />
+      <option name="MAIN_CLASS_NAME" value="ebay.FirefoxSetup" />
+      <option name="METHOD_NAME" value="dailyDeal" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeScreenshot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="initialization.TakeScreenshot" />
+    <configuration name="FirefoxSetup.fashion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Google" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="initialization.*" />
+          <option name="PATTERN" value="ebay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ebay" />
+      <option name="MAIN_CLASS_NAME" value="ebay.FirefoxSetup" />
+      <option name="METHOD_NAME" value="fashion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Setup" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SetupFirefox (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Google" />
       <extension name="coverage">
         <pattern>
@@ -228,8 +210,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="initialization" />
-      <option name="MAIN_CLASS_NAME" value="initialization.Setup" />
+      <option name="MAIN_CLASS_NAME" value="initialization.SetupFirefox" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupFirefox.facebookLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="initialization" />
+      <option name="MAIN_CLASS_NAME" value="initialization.SetupFirefox" />
+      <option name="METHOD_NAME" value="facebookLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -238,10 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TakeScreenshot" />
-        <item itemvalue="TestNG.Setup" />
-        <item itemvalue="Application.Setup_Core" />
-        <item itemvalue="Application.Setup" />
+        <item itemvalue="TestNG.FirefoxSetup.fashion" />
+        <item itemvalue="TestNG.FirefoxSetup" />
+        <item itemvalue="TestNG.FirefoxSetup.dailyDeal" />
+        <item itemvalue="TestNG.SetupFirefox (1)" />
+        <item itemvalue="TestNG.SetupFirefox.facebookLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -262,18 +263,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Setup - 2019.05.02 at 11h 30m 38s.xml">
-      <configuration name="Setup" configurationId="TestNG" />
+    <history-entry file="HomePage_(1) - 2019.05.03 at 10h 13m 53s.xml">
+      <configuration name="HomePage (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePage_(2) - 2019.05.03 at 10h 17m 14s.xml">
+      <configuration name="HomePage (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Setup_signUp - 2019.05.05 at 13h 52m 17s.xml">
+      <configuration name="Setup.signUp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SetupFirefox - 2019.05.05 at 13h 57m 10s.xml">
+      <configuration name="SetupFirefox" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePage_ebayLogin - 2019.05.05 at 20h 58m 38s.xml">
+      <configuration name="HomePage.ebayLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SetupFirefox_facebookLogin - 2019.05.07 at 22h 45m 18s.xml">
+      <configuration name="SetupFirefox.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SetupFirefox_(1) - 2019.05.07 at 22h 47m 13s.xml">
+      <configuration name="SetupFirefox (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirefoxSetup_dailyDeal - 2019.05.07 at 22h 51m 11s.xml">
+      <configuration name="FirefoxSetup.dailyDeal" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirefoxSetup - 2019.05.07 at 23h 00m 03s.xml">
+      <configuration name="FirefoxSetup" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirefoxSetup_fashion - 2019.05.07 at 23h 00m 56s.xml">
+      <configuration name="FirefoxSetup.fashion" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="5347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="27" width="1503" height="959" extended-state="0" />
-    <editor active="true" />
+    <frame x="56" y="27" width="1464" height="959" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23887748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27707455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +310,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -299,7 +326,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32964426" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32911393" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -321,6 +348,16 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ebay/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Google.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -328,17 +365,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ebay/Screenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/initialization/SetupFirefox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="73" lean-forward="true" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/initialization/Setup_Core.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -355,41 +414,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/initialization/Setup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1246#1247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/initialization/SeleniumMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ebay/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/initialization/TakeScreenshot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ebay/FirefoxSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/initialization/Setup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
